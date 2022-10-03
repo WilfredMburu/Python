@@ -1,0 +1,8 @@
+a = 333
+b = 333
+if b > a:
+  print("b is greater than a")
+elif b < a:
+  print ("b is lesser than a")
+else:
+    print("b is equal to a")
